@@ -24,3 +24,12 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 **Summary:** I studied Gini impurity and information gain as well. It seems like I now understand these things in isolation but I need to study it more before I can see the big picture of this classifier and write all code out of my head. 
 
 **Link to work:** https://github.com/VariSingh/Decision-tree-classifier-from-scratch/commit/6ce7262582a22de56dd6fe016da485b6b2c64638
+
+### Day 3: July 9, 2018
+
+**Today's Progress:** Studied how array can be split by finding gini impurity and information gain.
+
+**Summary:** Didn't commit anything to repo. Studied find_best_split() function from below link. I couldn't get the enough workable version to commit. 
+
+**Link to work:** https://drive.google.com/file/d/1gURSnd1VjlaVnbh6rrObirnWlVplOnRZ/view?usp=sharing
+
