@@ -33,3 +33,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://drive.google.com/file/d/1gURSnd1VjlaVnbh6rrObirnWlVplOnRZ/view?usp=sharing
 
+### Day 4: July 10, 2018
+
+**Today's Progress:** Worked on function to split data based on best information gain.
+
+**Summary:** I had to watch the youtube video by Josh Gorden multiple times before I could understand what the code is doing :p. I feel like I am crawling but finally understood how this works. Added function to split data based on gini impurity and best information gain. The function is not complete yet. 
+
+**Link to work:** https://github.com/VariSingh/Decision-tree-classifier-from-scratch/commit/5a8e01dcf583c14d8e5c3580fb2c76efc547f187
+
