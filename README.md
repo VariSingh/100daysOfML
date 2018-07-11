@@ -41,3 +41,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/Decision-tree-classifier-from-scratch/commit/5a8e01dcf583c14d8e5c3580fb2c76efc547f187
 
+### Day 5: July 11, 2018
+
+**Today's Progress:** Updated function to split data and ask question.
+
+**Summary:** We pick one value from a feature and apply for loop over it, then compare(ask question) it with every other value of the feature. Those which return true move to right branch. Others go to left branch. I have not tested the code yet. I feel like I am working much slower than expected. Need to speed up.
+
+**Link to work:** https://github.com/VariSingh/Decision-tree-classifier-from-scratch/commit/e3fbd5a8e37e70c345583b8188584ab5dcb60e0b
+
