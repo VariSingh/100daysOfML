@@ -49,3 +49,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/Decision-tree-classifier-from-scratch/commit/e3fbd5a8e37e70c345583b8188584ab5dcb60e0b
 
+### Day 6: July 12, 2018
+
+**Today's Progress:** Tested functions and fixed bugs.
+
+**Summary:** I added index.html file so that I could debug functions. Now row splitting and gini impurity is working. It seems like keeping features and labels in separate arrays is not a good idea. I will keep it like that though.
+
+**Link to work:** https://github.com/VariSingh/Decision-tree-classifier-from-scratch/commit/6191bc0c8de9be904a7bdb995bdc2f4fdfbd1801
+
