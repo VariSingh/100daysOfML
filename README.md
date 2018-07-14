@@ -59,9 +59,17 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 ### Day 7: July 13, 2018
 
-**Today's Progress:** Fixed bug in information gain, update in best_split function .
+**Today's Progress:** Fixed bug in information gain, update in best_split function.
 
 **Thoughts:** Not much to explain today. Just debugging and bug fixing. I feel like I am spending more time on coding aspects of ML and not really logic thing. Logic is something that goes more in head and less on keyboard. I will spend some time thinking about how to make this better.
 
 **Link to work:** https://github.com/VariSingh/Decision-tree-classifier-from-scratch/commit/453dfd3789abbffa5a5bacdefc8ad33aa4b1cdae
+
+### Day 8: July 14, 2018
+
+**Today's Progress:** Added recursive call to classifier function. Now tree is split on each node.
+
+**Thoughts:** When I run function recursively it gives some weird looking response which apparently means I am doing something wrong. I will fix this in next commit.
+
+**Link to work:** https://github.com/VariSingh/Decision-tree-classifier-from-scratch/commit/c35eb726b44b3e9a8dd4e11e0f3c0db47e99b0d4
 
