@@ -73,3 +73,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/Decision-tree-classifier-from-scratch/commit/c35eb726b44b3e9a8dd4e11e0f3c0db47e99b0d4
 
+### Day 9: July 15, 2018
+
+**Today's Progress:** Learnt about SVM(Support Vector Machine) from Udacity course "Intro to machine learning".
+
+**Thoughts:** I have put decision tree classifier aside for some time because I felt like I am stuck with one algorithm only. I will come back to it later. So I read about SVMs, kernel trick, how to convert linear SVMs to linear. I have completed 22 chapters from the course on SVMs. Link at the bottom.
+
+**Link to work:** https://in.udacity.com/course/intro-to-machine-learning--ud120-india
+
