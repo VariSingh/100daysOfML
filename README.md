@@ -81,3 +81,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://in.udacity.com/course/intro-to-machine-learning--ud120-india
 
+### Day 10: July 16, 2018
+
+**Today's Progress:** Read about Naive Bayes Classifier from Udacity course "Intro to machine learning".
+
+**Thoughts:** I couldn't understand most part of it. Even though I watched most of the videos, I seriously didn't get anything from the theory part (Bays Rule Diagram or Cancer test quiz). Really disappointed.
+
+**Link to work:** https://in.udacity.com/course/intro-to-machine-learning--ud120-india
+
