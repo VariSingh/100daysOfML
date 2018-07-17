@@ -89,3 +89,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://in.udacity.com/course/intro-to-machine-learning--ud120-india
 
+### Day 11: July 17, 2018
+
+**Today's Progress:** Read about probability, Bayes Theorem.
+
+**Thoughts:** I found out that I can't proceed with SVM's practical samples on Udacity because a part of it is in Naive Bayes lecture and I couldn't do that because I couldn't understand the theory part. So I jumped to very basics - probability theory. I am studying probability from Khan Academy.
+
+**Link to work:** https://www.khanacademy.org/math/statistics-probability
+
