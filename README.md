@@ -97,3 +97,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.khanacademy.org/math/statistics-probability
 
+### Day 12: July 18, 2018
+
+**Today's Progress:** Probability continue.
+
+**Thoughts:** Still reading probability from Khan Academy. Watched more lectures in order to understand it better.
+
+**Link to work:** https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fundamentals/v/bayes-theorem
+
