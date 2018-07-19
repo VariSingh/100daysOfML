@@ -105,3 +105,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fundamentals/v/bayes-theorem
 
+### Day 13: July 19, 2018
+
+**Today's Progress:** Studied addition rule of probability, sets.
+
+**Thoughts:** It seems like I'm back into school and studying things that I thought I would never study again but this is interesting. I need to study this anyway so that I understand fundamentals.
+
+**Link to work:** https://www.khanacademy.org/math/statistics-probability/probability-library
+
