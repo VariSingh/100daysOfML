@@ -113,3 +113,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.khanacademy.org/math/statistics-probability/probability-library
 
+### Day 14: July 20, 2018
+
+**Today's Progress:** Studied multiplication rule for dependent and independent events.
+
+**Thoughts:** Doing lot of theory. I have the urge to actually code but I won't really understand what I am doing untill I know how this stuff works. One aspect of that is probability. Udacity theory videos by Sebastian Thrun are really hard to understand until I know basics of probability.
+
+**Link to work:** https://www.khanacademy.org/math/statistics-probability/probability-library
+
