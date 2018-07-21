@@ -121,3 +121,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.khanacademy.org/math/statistics-probability/probability-library
 
+### Day 15: July 21, 2018
+
+**Today's Progress:** Studied Naive Bayes theory from Udacity course on machine learning by Sebastian Thrun.
+
+**Thoughts:** In order to understand this course you must learn "Intro to statistics". I read basics of probability from KhanAcademy. Now I am on a mini project at the end of the "Naive Bayes" lesson.
+
+**Link to work:** https://in.udacity.com/course/intro-to-machine-learning--ud120-india
+
