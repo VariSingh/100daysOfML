@@ -129,3 +129,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://in.udacity.com/course/intro-to-machine-learning--ud120-india
 
+### Day 16: July 22, 2018
+
+**Today's Progress:** Worked on mini project (Naive Bayes)but could not get it working because of python version issue.
+
+**Thoughts:** Udacity has good content but many times I feel completely lost. Either it is intentional or they presume that I know lots of maths and already a wizard :p. e.g I also started reading deep learning course and the first thing they ask is to write a softmax function. How the hell can I write it before knowing it?:D Perhaps I can't skip through the lectures.
+
+**Link to work:** https://github.com/udacity/ud120-projects
+
