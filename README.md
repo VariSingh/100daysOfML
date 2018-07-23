@@ -137,3 +137,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/udacity/ud120-projects
 
+### Day 17: July 23, 2018
+
+**Today's Progress:** Watched youtube video by @sentdex on Deep neural networks.
+
+**Thoughts:** I have already done one program on Neural network but when I saw the video I was like why I didn't see this before :D. I'm going to implement it the next thing. 
+
+**Link to work:** https://www.youtube.com/watch?v=PwAGxqrXSCs&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=47
+
