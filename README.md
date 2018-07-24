@@ -145,3 +145,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=PwAGxqrXSCs&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=47
 
+### Day 18: July 24, 2018
+
+**Today's Progress:** Started working on fashionMNIST with deep neural network.
+
+**Thoughts:** I played with the data a little bit. Couldn't plot the data. I was looking for something that Tensorflow can do for me. I can use matplotlib also but I need to study it more. 
+
+**Link to work:** https://github.com/VariSingh/deepMNIST
+
