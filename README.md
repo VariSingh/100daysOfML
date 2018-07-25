@@ -153,3 +153,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/deepMNIST
 
+### Day 19: July 25, 2018
+
+**Today's Progress:** Wrote code to create 4 layers for deepMNIST.
+
+**Thoughts:** I did not get much time today so watched the video by @sentdex on Deep neural network and followed the same pattern to write 4 layers on neural network. 
+
+**Link to work:** https://github.com/VariSingh/deepMNIST/commit/268ffd07d0596b5b54beca280c281f85a65b372f
+
