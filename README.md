@@ -161,3 +161,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/deepMNIST/commit/268ffd07d0596b5b54beca280c281f85a65b372f
 
+### Day 20: July 26, 2018
+
+**Today's Progress:** Wrote code to calculate weighted sum of input and bias.
+
+**Thoughts:** Wrote four variables which have inputs * weights + biases. Also studied tf.random_normal. tf.zeros, difference between session and interactive session. I need to study python as well because I am not good at it.
+
+**Link to work:** https://github.com/VariSingh/deepMNIST/commit/6cad248752d3f57200d6fa3fbe5a1a8298ae65a5
+
