@@ -169,3 +169,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/deepMNIST/commit/6cad248752d3f57200d6fa3fbe5a1a8298ae65a5
 
+### Day 21: July 27, 2018
+
+**Today's Progress:** Finished deepMNIST.
+
+**Thoughts:** I think this can be tweaked in more than one way to affect the accuracy. I will play with it a little more tomorrow.
+
+**Link to work:** https://github.com/VariSingh/deepMNIST/commit/b1107d203d80bed4b0146066b5c415c038e9abea
+
