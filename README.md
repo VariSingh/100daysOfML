@@ -177,3 +177,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/deepMNIST/commit/b1107d203d80bed4b0146066b5c415c038e9abea
 
+### Day 22: July 28, 2018
+
+**Today's Progress:** Watched @sentdex youtube video on using raw text data for sentiment analysis.
+
+**Thoughts:** This looks more like a practical thing you will face in real life where your data is not properly labeled.
+
+**Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/3c402e634d99bcd7795a1c7e110583fa09ed430c
+
