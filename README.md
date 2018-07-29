@@ -185,3 +185,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/3c402e634d99bcd7795a1c7e110583fa09ed430c
 
+### Day 23: July 29, 2018
+
+**Today's Progress:** Continued with sentiment analysis code.
+
+**Thoughts:** Watched the same video again and continued to code. Basically imported WordNetLemmatizer and tried it. Didn't give me any impressive results so I pushed to repo whatever was done. While writing code I realized I don't know basic python so moved to w3schools. I know it's funny. Here's the link to last chapter I read - https://www.w3schools.com/python/python_pip.asp
+
+**Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/e5fa7e37aa7eb43a2237ca15761b265f4e38337c
+
