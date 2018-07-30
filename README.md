@@ -193,3 +193,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/e5fa7e37aa7eb43a2237ca15761b265f4e38337c
 
+### Day 24: July 30, 2018
+
+**Today's Progress:** Continued with sentiment analysis code for third day.
+
+**Thoughts:** Watching the @sentdex video and coding along. I don't know much of python so sometimes I have to spend more time trying to figure out what that piece of code is doing. Learnt again list,tuple,set. Read about Counter module.
+
+**Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/3b54959632dc4c7450f6997b9d36f0e04e9fbe86
+
