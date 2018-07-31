@@ -201,3 +201,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/3b54959632dc4c7450f6997b9d36f0e04e9fbe86
 
+### Day 25: July 31, 2018
+
+**Today's Progress:** Sentiment analysis - Wrote code to generate file with features and labels. Fixed bugs.
+
+**Thoughts:** I continued with same program today. Fixed some bugs. All bugs are not fixed yet. Need to study more about python. I also studied about convolutional neural networks.
+
+**Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/2a49d2174eecf27f398307c84e0977737b5c94e3
+
