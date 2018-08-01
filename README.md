@@ -209,3 +209,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/2a49d2174eecf27f398307c84e0977737b5c94e3
 
+### Day 26: August 1, 2018
+
+**Today's Progress:** Read about tflearn and Keras.
+
+**Thoughts:** Today I did not cotinue with sentiment analysis because I am stuck in a python bug. I watched Youtube video by Siraj Raval on sentiment analysis. I want to decrease the time it takes to learn and implement DNN that's why I explored tflearn. Found a Reddit link as well.
+
+**Link to work:** https://www.reddit.com/r/MachineLearning/comments/50eokb/which_one_should_i_choose_keras_tensorlayer/
+
