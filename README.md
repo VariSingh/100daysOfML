@@ -217,3 +217,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.reddit.com/r/MachineLearning/comments/50eokb/which_one_should_i_choose_keras_tensorlayer/
 
+### Day 27: August 2, 2018
+
+**Today's Progress:** Studied create_lexicon function in detail.
+
+**Thoughts:** Although I have coded a part of the sentiment analysis by watching sentdex youtube video but there are lots of things that I really don't understand yet especially on python part. I run one function at a time and add a print statement to understand each line.
+
+**Link to work:** https://github.com/VariSingh/sentiment_analysis
+
