@@ -225,3 +225,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/sentiment_analysis
 
+### Day 28: August 3, 2018
+
+**Today's Progress:** Studied sample_handling function in sentiment analysis.
+
+**Thoughts:** It's funny, I thought I understood whole program. Two days later I am debugging whole application and learning new things from it. In sample_handling we are converting text to vector form which can be fed into tensorflow.
+
+**Link to work:** https://github.com/VariSingh/sentiment_analysis
+
