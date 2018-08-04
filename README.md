@@ -233,3 +233,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/sentiment_analysis
 
+### Day 29: August 4, 2018
+
+**Today's Progress:** Fixed bug in featureset list in sentiment_analysis.
+
+**Thoughts:** I think it was because of the different version of python I have. I don't know but the code from sentdex video didn't work for me. I had to create a sample list and experiment on it with some stackoverflow help finally fixed the problem. Will work on Neural network tomorrow.
+
+**Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/90b160a5eb321e16fbc0fea477dec5f7de8b530d
+
