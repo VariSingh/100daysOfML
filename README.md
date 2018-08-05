@@ -241,3 +241,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/90b160a5eb321e16fbc0fea477dec5f7de8b530d
 
+### Day 29: August 4, 2018
+
+**Today's Progress:** Trained and tested sentiment_analysis.
+
+**Thoughts:** modified existing neural network to take data that I generated yesterday and trained and tested it. Also read about basics of Recurrent Neural networks and Convolutional Neural Network.
+
+**Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/920f931875339fb840599bac7a73871e7cc534f4
+
