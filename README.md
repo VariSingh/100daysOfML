@@ -241,7 +241,7 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/90b160a5eb321e16fbc0fea477dec5f7de8b530d
 
-### Day 29: August 4, 2018
+### Day 30: August 5, 2018
 
 **Today's Progress:** Trained and tested sentiment_analysis.
 
