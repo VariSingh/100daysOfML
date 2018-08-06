@@ -249,3 +249,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/sentiment_analysis/commit/920f931875339fb840599bac7a73871e7cc534f4
 
+### Day 31: August 6, 2018
+
+**Today's Progress:** Studied Convolutional Neural Network.
+
+**Thoughts:** I watched multiple videos on Convolutional Neural networks which included concept and coding. I have created repository for this but haven't coded anything yet.
+
+**Link to work:** https://github.com/VariSingh/MNIST_with_Convnet
+
