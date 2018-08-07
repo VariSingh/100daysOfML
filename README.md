@@ -257,3 +257,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/MNIST_with_Convnet
 
+### Day 32: August 7, 2018
+
+**Today's Progress:** Studied ConvNet in more detail. 
+
+**Thoughts:** I watched more videos on ConvNet. I am still not having a clear picture of how the convolution works. I also watched a video on how Generative Adversarial Network work. 
+
+**Link to work:** https://www.youtube.com/watch?v=mynJtLhhcXk&index=57&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
