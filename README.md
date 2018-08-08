@@ -265,3 +265,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=mynJtLhhcXk&index=57&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 
+### Day 33: August 8, 2018
+
+**Today's Progress:** Studied basics of multilayer perceptron. 
+
+**Thoughts:** While studying ConvNet I realized I do not know some pieces of Vanilla Neural Network. So I watched the videos by 3blue1brown to understand cost function and optimization. I am still not very sure about that. I also studied tflearn and kind of compared it with plain tensorflow. I think I should create more samples of multilayer perceptron with tflearn. 
+
+**Link to work:** https://www.youtube.com/watch?v=IHZwWFHWa-w
+
