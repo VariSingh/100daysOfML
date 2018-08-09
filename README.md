@@ -273,3 +273,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=IHZwWFHWa-w
 
+### Day 34: August 9, 2018
+
+**Today's Progress:** Studied ConvNets. 
+
+**Thoughts:** I learnt what is filter, stride, size. I also studied about tflearn but still I need to learn that again so that this all goes in my subconcious mind. 
+
+**Link to work:** https://www.youtube.com/watch?v=SQ67NBCLV98&t=16s
+
