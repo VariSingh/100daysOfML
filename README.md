@@ -281,3 +281,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=SQ67NBCLV98&t=16s
 
+### Day 35: August 10, 2018
+
+**Today's Progress:** Watched video about GAN.
+
+**Thoughts:** I watched Siraj Raval's video about Generative Adversarial Network.
+
+**Link to work:** https://www.youtube.com/watch?v=0VPQHbMvGzg
+
