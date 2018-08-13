@@ -289,3 +289,12 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=0VPQHbMvGzg
 
+### Day 36: August 13, 2018
+
+**Today's Progress:** Implemented multilayer perceptron with tflearn.
+
+**Thoughts:** I skipped two days as I was out of station and could not take laptop with me. Although I watched youtube videos on Convolutional Neural Network but I did not work atleast an hour so I have decided to mark that as undone. Although the motive behind #100daysofML is to understand Artificial Intelligence and implement that to to bring change in people's lives.
+  I will compensate these lost two days by studying for atleast two hours for atleast seven days.
+
+**Link to work:** https://github.com/VariSingh/deepMNIST_tflearn
+
