@@ -298,3 +298,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/deepMNIST_tflearn
 
+### Day 37: August 14, 2018
+
+**Today's Progress:** Studied more about ConvNet.
+
+**Thoughts:** I will need to study the theory part more before I can actually code it. There are lots of things I don't know yet e.g why do we reshape tensor like this 'reshape([-1, 28, 28, 1])'. Read from following link.
+
+**Link to work:** http://cs231n.github.io/convolutional-networks/
+
