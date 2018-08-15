@@ -306,3 +306,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** http://cs231n.github.io/convolutional-networks/
 
+### Day 38: August 15, 2018
+
+**Today's Progress:** ConvNet continued.
+
+**Thoughts:** Now I understand what 'reshape([-1, 28, 28, 1])' is. It's batch, width, height, filter size. I studied tflearn code. I understand it better. Read about local normalization which is still alien to me. Will read it again and do some research over it.
+
+**Link to work:** http://cs231n.github.io/convolutional-networks/
+
