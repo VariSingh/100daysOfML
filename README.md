@@ -314,3 +314,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** http://cs231n.github.io/convolutional-networks/
 
+### Day 39: August 16, 2018
+
+**Today's Progress:** Coded ConvNet.
+
+**Thoughts:** Wrote the program for ConvNet in tflearn. It does not execute yet. I tried to debug it but couldn't find anything. Will debug tomorrow.
+
+**Link to work:** https://github.com/VariSingh/deepMNIST_tflearn
+
