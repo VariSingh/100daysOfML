@@ -322,3 +322,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/deepMNIST_tflearn
 
+### Day 40: August 17, 2018
+
+**Today's Progress:** More ConvNet.
+
+**Thoughts:** Made some small changes in ConvNet. Errors are still not fixed.
+
+**Link to work:** https://github.com/VariSingh/MNIST_with_Convnet/commit/fddc8df2ec6a0c5453775dad6287c195b0d31bdf
+
