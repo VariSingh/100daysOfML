@@ -330,3 +330,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/MNIST_with_Convnet/commit/fddc8df2ec6a0c5453775dad6287c195b0d31bdf
 
+### Day 41: August 18, 2018
+
+**Today's Progress:** Executed ConvNet successfully.
+
+**Thoughts:** Fixed issues and executed the code.
+
+**Link to work:** https://github.com/VariSingh/MNIST_with_Convnet/commit/64bff3475b253925b403d877d9ef92a137a927be
+
