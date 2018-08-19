@@ -338,3 +338,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/MNIST_with_Convnet/commit/64bff3475b253925b403d877d9ef92a137a927be
 
+### Day 42: August 19, 2018
+
+**Today's Progress:** Executed ConvNet in FloydHub.
+
+**Thoughts:** Learnt about FloydHub. Experimented with different parameters tuning to increase training time. Didn't work. haha. So tried FloydHub.
+
+**Link to work:** https://github.com/VariSingh/MNIST_with_Convnet
+
