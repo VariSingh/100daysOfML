@@ -346,3 +346,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/MNIST_with_Convnet
 
+### Day 43: August 20, 2018
+
+**Today's Progress:** Watched youtube video about Tensorflow Serving.
+
+**Thoughts:** I thought it is the time to learn how to deploy model to production.
+
+**Link to work:** https://www.youtube.com/watch?v=T_afaArR0E8
+
