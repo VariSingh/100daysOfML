@@ -354,3 +354,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=T_afaArR0E8
 
+### Day 44: August 21, 2018
+
+**Today's Progress:** Watched youtube video about Tensorflow Serving again.
+
+**Thoughts:** I also read some medium articles about tensorflow servings. Basically understood about the architecture and about how to setup the environment.
+
+**Link to work:** https://www.youtube.com/watch?v=T_afaArR0E8
+
