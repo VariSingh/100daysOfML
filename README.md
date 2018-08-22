@@ -362,3 +362,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=T_afaArR0E8
 
+### Day 45: August 22, 2018
+
+**Today's Progress:** Watched youtube video about Tensorflow Serving again.
+
+**Thoughts:** I watched the video again and also read article on medium. I also read documentations on Kubernetes and Docker.
+
+**Link to work:** https://www.youtube.com/watch?v=T_afaArR0E8
+
