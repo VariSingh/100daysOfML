@@ -370,3 +370,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=T_afaArR0E8
 
+### Day 46: August 23, 2018
+
+**Today's Progress:** Watched youtube video about Docker.
+
+**Thoughts:** I watched the video about what is docker. Also watched a video on Tensorflow Hub, TFX and Tensorflow Serving.
+
+**Link to work:** https://www.youtube.com/watch?v=RyxXe5mbzlU
+
