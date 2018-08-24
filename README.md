@@ -378,3 +378,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=RyxXe5mbzlU
 
+### Day 46: August 24, 2018
+
+**Today's Progress:** Tried Docker.
+
+**Thoughts:** Used some of the docker commands. Created containers, destroyed them, deleted images. 
+
+**Link to work:** https://medium.com/the-code-review/top-10-docker-commands-you-cant-live-without-54fb6377f481
+
