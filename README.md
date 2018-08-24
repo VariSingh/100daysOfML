@@ -378,7 +378,7 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=RyxXe5mbzlU
 
-### Day 46: August 24, 2018
+### Day 47: August 24, 2018
 
 **Today's Progress:** Tried Docker.
 
