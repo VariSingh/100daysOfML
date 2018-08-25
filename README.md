@@ -386,3 +386,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://medium.com/the-code-review/top-10-docker-commands-you-cant-live-without-54fb6377f481
 
+### Day 48: August 25, 2018
+
+**Today's Progress:** Read about Tensorflow serving commands.
+
+**Thoughts:** I read about commands but did not execute them because there's lots of stuff that's I'm going to have to download so I'll do it on monday when I have more internet bandwidth. Yeah, I'm living in 20th century. lol:D
+
+**Link to work:** https://www.youtube.com/watch?v=T_afaArR0E8&t=711s
+
