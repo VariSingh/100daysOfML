@@ -394,3 +394,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=T_afaArR0E8&t=711s
 
+### Day 49: August 26, 2018
+
+**Today's Progress:** Watched video on Data preprocessing for Cat/Dog classifier.
+
+**Thoughts:** I watched sentdex video on that. I wanted to continue with Tensorflow Serving but I have very less data available so I will do that probably tomorrow.
+
+**Link to work:** https://youtu.be/gT4F3HGYXf4
+
