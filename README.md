@@ -402,3 +402,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://youtu.be/gT4F3HGYXf4
 
+### Day 50: August 27, 2018
+
+**Today's Progress:** Watched video on Data preprocessing for Cat/Dog classifier Continued.
+
+**Thoughts:** Watched sentdex video on data preparation. Also downloaded Cats vs Dogs dataset from Kaggle.
+
+**Link to work:** https://www.youtube.com/watch?v=j-3vuBynnOE&t=51s
+
