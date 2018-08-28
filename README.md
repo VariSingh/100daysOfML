@@ -410,3 +410,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=j-3vuBynnOE&t=51s
 
+### Day 51: August 28, 2018
+
+**Today's Progress:** Installed Tensorflow Serving.
+
+**Thoughts:** Installed tensorflow serving in Docker. Read documentation from tensorflow website.
+
+**Link to work:** https://www.tensorflow.org/serving/docker
+
