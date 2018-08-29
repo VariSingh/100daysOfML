@@ -418,3 +418,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.tensorflow.org/serving/docker
 
+### Day 52: August 29, 2018
+
+**Today's Progress:** Saved model checkpoint.
+
+**Thoughts:** Tried saving model onto disk. Next I'll try to load it and reuse it.
+
+**Link to work:** https://github.com/VariSingh/deepMNIST/commit/c2190ef785bf35968b26e75c1d8c66331b47661b
+
