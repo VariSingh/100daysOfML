@@ -426,3 +426,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/VariSingh/deepMNIST/commit/c2190ef785bf35968b26e75c1d8c66331b47661b
 
+### Day 53: August 30, 2018
+
+**Today's Progress:** Watched video on Tensorflow for mobile.
+
+**Thoughts:** I have to build an application that classifies images on mobile devices. So I watched Siraj Raval's video on Tensorflow for mobile.
+
+**Link to work:** https://www.youtube.com/watch?v=kFWKdLOxykE
+
