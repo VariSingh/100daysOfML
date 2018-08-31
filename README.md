@@ -434,3 +434,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=kFWKdLOxykE
 
+### Day 54: August 31, 2018
+
+**Today's Progress:** Watched video about Docker.
+
+**Thoughts:** I got some insight into why Docker is used and how it is different from VMs. Most imortant thing is that Containers share the OS kernel.
+
+**Link to work:** https://www.youtube.com/watch?v=wxxigbHwDGM
+
