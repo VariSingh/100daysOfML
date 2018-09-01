@@ -442,3 +442,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=wxxigbHwDGM
 
+### Day 55: September 1, 2018
+
+**Today's Progress:** Watched video on how to save and restore model.
+
+**Thoughts:** I usually see a video lots of times before it can finally make way to my brain lol. I also watched a video on Docker concept.
+
+**Link to work:** https://www.youtube.com/watch?v=e05zY-TJb5k
+
