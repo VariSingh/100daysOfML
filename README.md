@@ -450,3 +450,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=e05zY-TJb5k
 
+### Day 56: September 2, 2018
+
+**Today's Progress:** Learnt how to save model with tflearn.
+
+**Thoughts:** I am not spending as much quality time on Mahchine learning lately. I should think about it again. Maybe it's because concepts are little more complicated now.
+
+**Link to work:** https://github.com/tflearn/tflearn/blob/master/examples/basics/weights_persistence.py
+
