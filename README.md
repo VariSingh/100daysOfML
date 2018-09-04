@@ -458,3 +458,11 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://github.com/tflearn/tflearn/blob/master/examples/basics/weights_persistence.py
 
+### Day 57: September 4, 2018
+
+**Today's Progress:** Created a document of the image recognition application.
+
+**Thoughts:** I have a rough idea of what to build and how to build but I have never really built a production ready application.
+
+**Link to work:** Can't upload the link for requirement document
+
