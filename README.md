@@ -466,3 +466,13 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** Can't upload the link for requirement document
 
+### Day 58: September 5, 2018
+
+**Today's Progress:** Read about single class classification.
+
+**Thoughts:** Such a thing doesn't exist. It's always two class. It's either positive or negative. I searched over internet to get an overview of how other people are building this.
+
+**Link to work:** No link today.
+
+
+
