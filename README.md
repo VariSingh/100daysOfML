@@ -474,5 +474,13 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** No link today.
 
+### Day 59: September 6, 2018
+
+**Today's Progress:** Watched Sentdex video on CatsVsDogs.
+
+**Thoughts:** I also used python tqdm module.
+
+**Link to work:** https://www.youtube.com/watch?v=Ge65ukmJTzQ&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=64
+
 
 
