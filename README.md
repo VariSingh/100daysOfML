@@ -482,5 +482,13 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=Ge65ukmJTzQ&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=64
 
+### Day 60: September 7, 2018
+
+**Today's Progress:** Watched how deepfake works.
+
+**Thoughts:** Watched Siraj Raval's video on deepfake.
+
+**Link to work:** https://www.youtube.com/watch?v=7XchCsYtYMQ
+
 
 
