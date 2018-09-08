@@ -490,5 +490,13 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=7XchCsYtYMQ
 
+### Day 61: September 8, 2018
+
+**Today's Progress:** Watched sentdex video on data preparation for ConvNet.
+
+**Thoughts:** Started to read it again very carefully.
+
+**Link to work:** https://www.youtube.com/watch?v=gT4F3HGYXf4&index=63&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
 
 
