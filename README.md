@@ -498,5 +498,13 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=gT4F3HGYXf4&index=63&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 
+### Day 62: September 9, 2018
+
+**Today's Progress:** Watched Sentdex video on python.
+
+**Thoughts:** I am very much tired today because I ran my first 10km run so I watched python videos of Sentdex. I am adding link of one of the videos I watched.
+
+**Link to work:** https://www.youtube.com/watch?v=BvgPM9-krOY&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=4
+
 
 
