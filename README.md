@@ -506,5 +506,13 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=BvgPM9-krOY&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=4
 
+### Day 63: September 11, 2018
+
+**Today's Progress:** Watched Sentdex video on catsvsdogs.
+
+**Thoughts:** It seems like I spent many days on same video or perhaps I keep coming back to same video again and again. The thing is I am getting very less time learning something and this is going on from a while. Today thankfully I gave more attention to the stuff I read. Basically went throught 3 videos and got an overview of whats happening but I need to understand many pieces of python code e.g os module before I could code it myself.
+
+**Link to work:** https://www.youtube.com/watch?v=gT4F3HGYXf4&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=63
+
 
 
