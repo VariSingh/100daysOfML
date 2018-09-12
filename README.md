@@ -514,5 +514,13 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=gT4F3HGYXf4&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=63
 
+### Day 64: September 12, 2018
+
+**Today's Progress:** Sentdex catsvsdogs video continued.
+
+**Thoughts:** I continued with that video. I am completely lost with the video. I don't understand it at all. Is it me. Is it video? I don't know. I need to look for other tutorials somewhere else.
+
+**Link to work:** https://www.youtube.com/watch?v=gT4F3HGYXf4&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=63
+
 
 
