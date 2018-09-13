@@ -522,5 +522,13 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=gT4F3HGYXf4&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=63
 
+### Day 65: September 13, 2018
+
+**Today's Progress:** Sentdex self driving GTA V car video.
+
+**Thoughts:** I need to figure out how the previous CatsVSDogs task could be finished. I will look at that tomorrow. Installed tree to veiw folder structure of dataset.
+
+**Link to work:** https://www.youtube.com/watch?v=rvnHikUJ9T0&t=633s
+
 
 
