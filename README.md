@@ -530,5 +530,13 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=rvnHikUJ9T0&t=633s
 
+### Day 66: September 14, 2018
+
+**Today's Progress:** Watched Sentdex catsvsdogs video.
+
+**Thoughts:** Watched the video carefully after many days. I realized it's better to watch in morning.
+
+**Link to work:** https://www.youtube.com/watch?v=rvnHikUJ9T0&t=633s
+
 
 
