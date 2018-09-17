@@ -546,5 +546,13 @@ Note: This is perhaps the worst way to descript it. lol. I'll keep improving.
 
 **Link to work:** https://www.youtube.com/watch?v=rvnHikUJ9T0&t=633s
 
+### Day 68: September 17, 2018
+
+**Today's Progress:** Wrote function to format image label.
+
+**Thoughts:** Watched the same CatsvsDogs Sentdex video and wrote the code along.
+
+**Link to work:** https://github.com/VariSingh/CatsvsDogs/commit/b6104c44b56f197b114857241fff85a2bd78c093
+
 
 
